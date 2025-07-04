@@ -73,4 +73,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/screenshot/prefs.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  26 June 2025
+
+
+Update: Asset links
