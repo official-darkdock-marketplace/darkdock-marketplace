@@ -75,4 +75,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 
 
-Update: Asset links
+
+
+Update:  07.07.2025 11:53
