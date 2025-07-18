@@ -79,4 +79,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 
 
-Update: link is active and clickable
+
+
+Update:  18 July 2025
