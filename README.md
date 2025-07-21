@@ -81,4 +81,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 
 
-Update:  18 July 2025
+
+
+Update: url is now clickable and functioning
