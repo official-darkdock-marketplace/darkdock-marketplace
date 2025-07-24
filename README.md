@@ -83,4 +83,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 
 
-Update: url is now clickable and functioning
+
+
+Update: url is now responsive and active
